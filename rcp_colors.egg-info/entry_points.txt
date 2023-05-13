@@ -1,0 +1,2 @@
+[console_scripts]
+rcp-colors = rcp_colors.rcp:main

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: rcp-colors
+Version: 0.113
+Summary: A Rich Color Picker app
+Home-page: https://github.com/PlusPlusMan/rcp
+Author: PlusPlusMan
+Author-email: contact@plusplusman.com
+Project-URL: Source, https://github.com/PlusPlusMan/RichColorPicker
+Project-URL: Bug Reports, https://github.com/PlusPlusMan/RichColorPicker/issues
+Keywords: color picker,terminal app rgb hsl hex colors
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+
+Terminal based rich color picker app. Type rcp-colors in your terminal to start.
