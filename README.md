@@ -15,7 +15,7 @@
 * Ho to start
   - After installation, type in the terminal `rcp-colors`. This will start the app.
 * Functions
-  - Video showing *Rich Color Picker* functionality
+  - Video showing *Rich Color Picker* functionality (Click the miniature to open Youtube video)
     * [![Watch the video](https://img.youtube.com/vi/AgJ1DZi9suo/maxresdefault.jpg)](https://youtu.be/AgJ1DZi9suo)
   - Find color from RGB
     * ![RGB](images/RGB.jpg)
